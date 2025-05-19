@@ -1,3 +1,4 @@
+/*
 void main() {
   var name = "Dipesh"; // String
   var age = 23; // int
@@ -17,3 +18,4 @@ void main() {
   print("Is 'age' not a String? ${age is! String}"); // true
   print("Is 'height' not an int? ${height is! int}"); // true
 }
+*/
