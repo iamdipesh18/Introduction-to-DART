@@ -16,8 +16,5 @@ void main() {
     case Weather.cloudy:
       print("Please bring umbrella.");
       break;
-    default:
-      print("Sorry I am not familiar with such weather.");
-      break;
   }
 }
